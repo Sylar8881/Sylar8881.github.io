@@ -1,0 +1,69 @@
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	background-image: url("images/bg-vinyl.jpg");
+	background-size: cover;
+	background-repeat: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	/*border: 4px solid #0D6DBD;*/
+	padding: 25px;
+}
+
+h1, .wave, p, #button1 {
+	margin: 20px;
+}
+
+.wave {
+	height: 100px;
+	width: 725px;
+	color: #00C475;
+}
+
+
+
+h1	{
+	font-family: 'Monoton', cursive;
+	color: white;
+	font-weight: 300;
+
+}
+
+#button1 {
+	border-radius: 20px;
+	background-color: #00C475;
+	border-color: white;
+	border-width: 2px;
+	font-weight: bold;
+	width: 250px;
+}
+
+#button2 {
+	border-radius: 20px;
+	background-color: #00C475;
+	border-color: white;
+	border-width: 2px;
+	font-weight: bold;
+
+}
+
+#button1:hover {
+		background-color: #0D6DBD;
+}
+
+
+
+p {
+	color: white;
+	font-size: 22px;
+}
