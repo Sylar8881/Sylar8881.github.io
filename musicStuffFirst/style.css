@@ -57,10 +57,13 @@ h1	{
 
 }
 
-#button1:hover, #button2:hover {
+#button1:hover {
 		background-color: #0D6DBD;
 }
 
+#button2:hover {
+		background-color: #0D6DBD;
+}
 
 
 p {
