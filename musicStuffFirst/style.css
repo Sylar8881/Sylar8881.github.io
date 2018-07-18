@@ -57,6 +57,15 @@ h1	{
 
 }
 
+#temp {
+	border-radius: 20px;
+	background-color: #00C475;
+	border-color: white;
+	border-width: 2px;
+	font-weight: bold;
+	width: 250px;
+}
+
 #button1:hover, #button2:hover {
 		background-color: #0D6DBD;
 }
