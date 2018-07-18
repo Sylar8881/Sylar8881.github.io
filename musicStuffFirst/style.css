@@ -64,6 +64,7 @@ h1	{
 	border-color: white;
 	border-width: 2px;
 	font-weight: bold;
+	width: 250px;
 }
 
 #button1:hover, #button2:hover {
