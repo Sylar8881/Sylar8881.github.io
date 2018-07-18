@@ -44,6 +44,11 @@ h1	{
 
 }
 
+p {
+	color: white;
+	font-size: 22px;
+}
+
 .button {
 	border-radius: 20px;
 	background-color: #00C475;
@@ -54,13 +59,6 @@ h1	{
 }
 
 
-#button1:hover, #button2:hover {
+.button:hover {
 		background-color: #0D6DBD;
-}
-
-
-
-p {
-	color: white;
-	font-size: 22px;
 }
